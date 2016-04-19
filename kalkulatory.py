@@ -7,3 +7,7 @@ print(nomina³y)
 max = max(nomina³y)
 print(max)
 if max <= kwota:
+bla bla bla
+to jest nowa funkcja
+ró¿na od poprzedniej
+print(all)
