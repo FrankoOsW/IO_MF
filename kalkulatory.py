@@ -11,3 +11,7 @@ bla bla bla
 to jest nowa funkcja
 ró¿na od poprzedniej
 print(all)
+
+kolejna trzecia juz dzialajaca funkcja
+o_co_chodzi = input(glupoty)
+print(o_co_chodzi)
